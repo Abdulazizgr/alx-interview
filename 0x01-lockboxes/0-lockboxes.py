@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-'''Working with lockboxes.
+'''A module for working with lockboxes.
 '''
 
 
