@@ -14,7 +14,7 @@ def minOperations(n):
     while num <= n:
         # if n evenly divides by num
         if n % num == 0:
-            # total even-divisions by root = total operations
+            # total even-divisions by num = total operations
             ops += num
             
             n = n / num
